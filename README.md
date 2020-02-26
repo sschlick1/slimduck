@@ -1,2 +1,2 @@
-# slimduck
+# Stefan Schlick
 Design
